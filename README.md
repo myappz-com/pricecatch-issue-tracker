@@ -59,6 +59,6 @@ Development happens in our private `pricecatch-app` repository.
 
 ## ✉️ Contact & Support
 
-If you need help using this tracker or have an urgent issue, email us at **support@pricecatch.com**.
+If you need help using this tracker or have an urgent issue, email us at **[Pricecatch Support](https://pricecatch.com/ebay/?page=contact)**.
 
 Thank you for helping us make Pricecatch better! 🙌
